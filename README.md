@@ -6,7 +6,7 @@ I implemented (You Only Look Once) algorithm version 8 **from scratch** accordin
 
 Code details in the colab notebook above "how to train Segmentation model on cancer tumor dataset.ipynb"
 
-# Project Idea
+# Project Idea is to build completely from scratch YOLO algorithm using low level pytorch only with out any high level tool
 How to train yolo algorithm on a specific data set **from scratch** to perform segmentation tasks.
 
 
